@@ -129,6 +129,4 @@ dmypy.json
 .pyre/
 
 # My Ignores
-.vscode/
-duplicates/tests/
-test.py
+
